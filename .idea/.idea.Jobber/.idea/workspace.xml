@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f971c7f8-a926-4dea-b3b0-ae0b9c272e70" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Jobber/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KAZI.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KAZI/KAZI.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KAZI/kazi.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KAZI/lib/config/JobOptions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KAZI/lib/config/KaziOptions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KAZI/lib/enums/BackdropType.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KAZI/lib/enums/Backend.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KAZI/lib/enums/Frequency.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KAZI/lib/enums/JobExecutionMode.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KAZI/lib/enums/QueueType.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KAZI/lib/helpers/JobberHelper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KAZI/lib/models/Data.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/KAZI/kazi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KAZI/lib/config/JobOptions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KAZI/lib/config/KaziOptions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KAZI/lib/enums/Backend.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KAZI/lib/enums/QueueType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KAZI/lib/helpers/JobberHelper.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2XWAI023LM9JGDkxSor5zUtX3KD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/Users/raimialiu/Library/Application Support/JetBrains/Rider2023.2/resharper-host/DecompilerCache",
+      "/Users/raimialiu/Library/Application Support/JetBrains/Rider2023.2/resharper-host/SourcesCache",
+      "/Users/raimialiu/.local/share/Symbols/src"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f971c7f8-a926-4dea-b3b0-ae0b9c272e70" name="Changes" comment="" />
+      <created>1698734378726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698734378726</updated>
+      <workItem from="1698734380153" duration="3440000" />
+      <workItem from="1699076351933" duration="1123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
