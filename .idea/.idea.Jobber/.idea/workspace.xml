@@ -5,20 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f971c7f8-a926-4dea-b3b0-ae0b9c272e70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Jobber/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KAZI.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KAZI/KAZI.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KAZI/kazi.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KAZI/lib/config/JobOptions.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KAZI/lib/config/KaziOptions.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KAZI/lib/enums/BackdropType.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KAZI/lib/enums/Backend.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KAZI/lib/enums/Frequency.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KAZI/lib/enums/JobExecutionMode.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KAZI/lib/enums/QueueType.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KAZI/lib/helpers/JobberHelper.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KAZI/lib/models/Data.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KAZI/lib/enums/JobStatus.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KAZI/lib/models/DataStore.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KAZI/lib/models/IDataStore.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KAZI/lib/models/Job.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KAZI/lib/models/JobEventArgs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Jobber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Jobber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KAZI/KAZI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/KAZI/KAZI.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KAZI/kazi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/KAZI/kazi.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KAZI/lib/models/Data.cs" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698734378726</updated>
       <workItem from="1698734380153" duration="3440000" />
-      <workItem from="1699076351933" duration="1123000" />
+      <workItem from="1699076351933" duration="5216000" />
     </task>
     <servers />
   </component>

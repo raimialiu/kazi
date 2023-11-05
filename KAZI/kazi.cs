@@ -7,9 +7,18 @@ using KAZI.lib.models;
 
 namespace KAZI
 {
-    public delegate void JobCallbacks<T>(Job<T> data);
+    public delegate void JobEventHandler(object source, JobEventArgs arg);
     public class kazi
     {
+        public event JobEventHandler JobCompleted;
+        public event JobEventHandler JobFailed;
+        public event JobEventHandler JobStarted;
+        public event JobEventHandler JobStalled;
+        public event JobEventHandler JobTerminated;
+        public event JobEventHandler JobRunning;
+        
+        
+        
         private KaziOptions _options;
         public kazi()
         {

@@ -4,6 +4,11 @@
         <TargetFramework>netstandard2.1</TargetFramework>
         <Nullable>enable</Nullable>
         <RootNamespace>Jobber</RootNamespace>
+        <LangVersion>10</LangVersion>
     </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="NRedisStack" Version="0.10.1" />
+    </ItemGroup>
 
 </Project>
